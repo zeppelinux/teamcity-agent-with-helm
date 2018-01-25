@@ -5,7 +5,6 @@ MAINTAINER Dmitry Shultz <dmitry@diligesoft.com>
 ARG VCS_REF
 ARG BUILD_DATE
 
-# Metadata
 LABEL org.label-schema.vcs-ref=$VCS_REF \
       org.label-schema.vcs-url="https://github.com/zeppelinux/teamcity-agent-with-helm" \
       org.label-schema.build-date=$BUILD_DATE \
